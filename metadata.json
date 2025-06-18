@@ -1,0 +1,5 @@
+{
+  "name": "Dental Clinic Management System",
+  "description": "A web application for managing dental clinic appointments, with separate dashboards for clients and doctors.",
+  "requestFramePermissions": []
+}
